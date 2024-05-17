@@ -4,7 +4,7 @@ import { getFirestore } from "firebase/firestore";
 import Constants from "expo-constants";
 // Firebase config
 const firebaseConfig = {
-    apiKey: "AIzaSyCoxPwgGhBxSxY1rfnSNRB9GeAL5VC3vTU",
+    apiKey: "<firebaseapikey>",
     authDomain: "chatapp-8e30a.firebaseapp.com",
     projectId: "chatapp-8e30a",
     storageBucket: "chatapp-8e30a.appspot.com",
